@@ -12,6 +12,9 @@
         <div>
             <button>submit</button>
         </div>
+        <div>
+            <a href="about.blade.php">About us link</a>
+        </div>
     </div>
 </body>
 </html>
