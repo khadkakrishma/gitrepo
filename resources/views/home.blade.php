@@ -15,6 +15,9 @@
         <div>
             <a href="about.blade.php">About us link</a>
         </div>
+        <div>
+            <p>Hy hey new paragraph</p>
+        </div>
     </div>
 </body>
 </html>
